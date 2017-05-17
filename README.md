@@ -1,7 +1,7 @@
 
 **Slides** 
 
-66 slides about logistic regression and meta-analysis, Markovian models and Gibbs Sampler, Kolgomorov equations, Bayesian Networks etc...
+Here 66 slides in italian about logistic regression and meta-analysis, Markovian models and Gibbs Sampler, Kolgomorov equations, Bayesian Networks etc...
 
 **Complete documentation**
 
